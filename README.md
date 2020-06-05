@@ -3,3 +3,4 @@
 Solutions to wargames of https://overthewire.org/wargames/
 
 - [Bandit](bandit.md)
+- [Leviathan](leviathan.md)
